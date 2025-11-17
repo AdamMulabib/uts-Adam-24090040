@@ -4,10 +4,10 @@ NIM: 24090040
 Email login: Adamlachowsky@gmail.com
 
 GitHub Repository:
-https://github.com/AdamMulabib/uts-Mukhammad-Adam-Mulabib-24090040.git
+https://github.com/AdamMulabib/uts-Adam-24090040.git
 
 GitHub Pages:
-https://adammulabib.github.io/uts-Mukhammad-Adam-Mulabib-24090040/
+https://adammulabib.github.io/uts-Adam-24090040/
 
 Deskripsi Project
 
